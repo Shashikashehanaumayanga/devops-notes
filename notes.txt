@@ -1,2 +1,3 @@
 My DevOps journey
 you are learning git now
+you are undestanding git now
